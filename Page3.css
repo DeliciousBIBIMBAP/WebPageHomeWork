@@ -1,0 +1,76 @@
+body {
+    background-image : url("depositphotos_4620029-stock-illustration-vintage-fabric.jpg");
+}
+h1.multiEffect {
+    text-align: center;
+    color : yellow;
+    text-shadow : 2px 2px 2px blueviolet;
+}
+h2.multiEffect {
+    text-align: center;
+    color : orange;
+    text-shadow : 2px 2px 2px blueviolet;
+}
+strong {
+    text-align: center;
+    color : blue;
+    font-size : 25px;
+}
+div {
+    float : right;
+    text-align : center;
+}
+iframe {
+    float : left;
+}
+
+
+
+.post-it1 {
+    display : inline-block;
+    width: 540px;
+    height: 450px;
+    background-color: yellow;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.post-it2 {
+    display : inline-block;
+    width: 540px;
+    height: 480px;
+    background-color: mediumaquamarine;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.post-it3 {
+    display : inline-block;
+    width: 540px;
+    height: 500px;
+    background-color: chartreuse;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+a {
+    text-decoration-line: none;
+}
+a:link {
+    color : orange;
+}
+a:visited {
+    color : orange;
+}
+a:active {
+    color : orange;
+}
+a:hover {
+    color : orange;
+}
+
+p {
+    margin: 0;
+    font-size : 15px;
+    color : purple;
+}

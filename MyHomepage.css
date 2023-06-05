@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+}
+header {
+    top : 10px;
+    text-align: center;
+    color : purple;
+}
+nav {
+    text-align: center;
+    color : Blue;
+}
+a {
+    text-decoration-line: none;
+}
+a:link {
+    color : Blue;
+}
+a:visited {
+    color : Blue;
+}
+a:active {
+    color : Blue;
+}
+a:hover {
+     color : Blue;
+}
+.clock {
+    text-align: left;
+}
+
+#time {
+    font-size: 20px;
+    color: blue;
+}
+

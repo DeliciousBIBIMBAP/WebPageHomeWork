@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+h2 {
+    text-align: center;
+    color : white;
+}
+form {
+    background-color: white;
+    visibility: hidden;
+}
+summary {
+
+    color : green;
+}
+p {
+    color : black;
+    font-style: italic;
+}
